@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web design and javascript
 - 💞️ I’m looking to collaborate on developing websites
-- 📫 How to reach me : my email: nour.mousawi@hotmail.com 
+- 📫 How to reach me : my email: nour.mousawi@hotmail.com  / inbox me
 
 <!---
 NourAlmousawi/NourAlmousawi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
